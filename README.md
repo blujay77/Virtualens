@@ -1,10 +1,8 @@
 # Virtualens
 ### Screenshots
-<p>
-  <img src="https://github.com/user-attachments/assets/0b820f02-0f74-4870-9a07-8a4e08c989af" width=300>
-  <img src="https://github.com/user-attachments/assets/b1e84164-a413-41af-8ef2-7bf1bab7a202" width=300>
-  <img src="https://github.com/user-attachments/assets/26e223ee-8b11-4781-8c85-23e21c1419fc" width=300>
-</p>
+
+![screenshot](https://github.com/user-attachments/assets/049856b0-d1c3-4670-a0e5-5932e9f0e0d3)
+
 
 
 ### Video Demo: https://youtu.be/C6rqYeVu__Y
