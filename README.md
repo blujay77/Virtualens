@@ -5,7 +5,7 @@
 
 
 
-### Video Demo: https://youtu.be/C6rqYeVu__Y
+### Video Demo: https://youtu.be/ItMcd5A5m6E
 ### Description
 Virtualens is an Android application that lets you apply various filters to an image sequentially. This allows not only for basic adjustments, but also the creation of entirely unique filters with only a few button presses! 
 #### Loading images
